@@ -36,9 +36,13 @@ reportlab para exportar a PDF
 
 📁 Estructura del Proyecto
 ─ app.py (Punto de entrada)
+
 ─ controllers (Lógica de controladores)
+
 ─ models (Conexión a BD y entidades)
+
 ─ views (Interfaces gráficas)
+
 ─ exportadores (Módulos de exportación)
 
 🚀 Cómo Ejecutar
