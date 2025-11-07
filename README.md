@@ -33,15 +33,14 @@ mysql-connector-python
 Pillow (PIL) para manejo de imágenes
 openpyxl para exportar a Excel
 reportlab para exportar a PDF
-📁 Estructura del Proyecto
 
-TiendaElectronicaApp/
-├── app.py                 # Punto de entrada
-├── favicon.ico
-├── controllers/           # Lógica de controladores
-├── models/                # Conexión a BD y entidades
-├── views/                 # Interfaces gráficas
-└── exportadores/          # Módulos de exportación
+📁 Estructura del Proyecto
+─ app.py (Punto de entrada)
+─ controllers (Lógica de controladores)
+─ models (Conexión a BD y entidades)
+─ views (Interfaces gráficas)
+─ exportadores (Módulos de exportación)
+
 🚀 Cómo Ejecutar
 Configura la base de datos TiendaElectronica en MySQL (usa el script SQL proporcionado).
 Instala las dependencias:
