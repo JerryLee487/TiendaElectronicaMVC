@@ -47,14 +47,12 @@ reportlab para exportar a PDF
 
 🚀 Cómo Ejecutar
 Configura la base de datos TiendaElectronica en MySQL (usa el script SQL proporcionado).
+Requerido tener tkcalendar, pillow, mysql-connector, o las necesarias para que nos ejecute sin errores
 Instala las dependencias:
-bash
-
 
 1
 pip install mysql-connector-python pillow openpyxl reportlab
 Ejecuta la aplicación:
-bash
 
 
 2
