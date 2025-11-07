@@ -3,9 +3,9 @@
 Una aplicación de escritorio moderna y funcional para gestionar una tienda electrónica, desarrollada en Python con arquitectura MVC (Modelo-Vista-Controlador) y principios de Programación Orientada a Objetos (POO).
 
 🏗️ Arquitectura MVC
-Modelo (/models):
+Modelo (models):
 Maneja la lógica de negocio y la conexión con la base de datos MySQL. Incluye clases de entidades (Producto, Cliente, Empleado, etc.) y una conexión robusta con procedimientos almacenados.
-Vista views):
+Vista (views):
 Interfaces gráficas modulares con Tkinter. Cada entidad tiene su propia pestaña con formularios completos, validaciones en tiempo real, gestión de imágenes y botones de acción.
 Controlador (controllers):
 Actúa como intermediario entre la vista y el modelo. Procesa las acciones del usuario (guardar, actualizar, eliminar) y coordina las llamadas a la base de datos.
