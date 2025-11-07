@@ -56,4 +56,6 @@ bash
 
 2
 python app.py
+
+Video explicativo:
 https://secure.vidyard.com/organizations/4401852/players/xjEk4p1Dv6cKwedvJw2xa4?edit=true&npsRecordControl=1
